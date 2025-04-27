@@ -9,6 +9,7 @@
 # Name of the conda environment
 ENV_NAME="clock-in"
 
+
 # Activate conda (adjust the path to your conda.sh if needed)
 source ~/anaconda3/etc/profile.d/conda.sh
 
