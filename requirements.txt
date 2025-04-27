@@ -1,0 +1,33 @@
+cachetools==5.5.2
+certifi==2025.4.26
+charset-normalizer==3.4.1
+google-api-core==2.24.2
+google-api-python-client==2.168.0
+google-auth==2.39.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.2
+googleapis-common-protos==1.70.0
+gspread==6.2.0
+httplib2==0.22.0
+idna==3.10
+oauthlib==3.2.2
+packaging @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a6_qk3qyg7/croot/packaging_1734472142254/work
+proto-plus==1.26.1
+protobuf==6.30.2
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pyparsing==3.2.3
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.16
+PyQt5_sip==12.17.0
+PyQt6==6.7.1
+PyQt6_sip @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f473u9tc3w/croot/pyqt-split_1744804492622/work/pyqt_sip
+QtPy==2.4.3
+requests==2.32.3
+requests-oauthlib==2.0.0
+rsa==4.9.1
+setuptools==75.8.0
+sip @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_684mzzmfec/croot/sip_1738856201465/work
+uritemplate==4.1.1
+urllib3==2.4.0
+wheel==0.45.1
